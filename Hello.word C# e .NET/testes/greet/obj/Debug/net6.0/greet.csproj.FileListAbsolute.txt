@@ -1,0 +1,12 @@
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Hello.word C# e .NET/testes/greet/obj/Debug/net6.0/greet.csproj.AssemblyReference.cache
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Hello.word C# e .NET/testes/greet/obj/Debug/net6.0/greet.GeneratedMSBuildEditorConfig.editorconfig
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Hello.word C# e .NET/testes/greet/obj/Debug/net6.0/greet.AssemblyInfoInputs.cache
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Hello.word C# e .NET/testes/greet/obj/Debug/net6.0/greet.AssemblyInfo.cs
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Hello.word C# e .NET/testes/greet/obj/Debug/net6.0/greet.csproj.CoreCompileInputs.cache
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Hello.word C# e .NET/testes/greet/bin/Debug/net6.0/greet.deps.json
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Hello.word C# e .NET/testes/greet/bin/Debug/net6.0/greet.dll
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Hello.word C# e .NET/testes/greet/bin/Debug/net6.0/ref/greet.dll
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Hello.word C# e .NET/testes/greet/bin/Debug/net6.0/greet.pdb
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Hello.word C# e .NET/testes/greet/obj/Debug/net6.0/greet.dll
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Hello.word C# e .NET/testes/greet/obj/Debug/net6.0/ref/greet.dll
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Hello.word C# e .NET/testes/greet/obj/Debug/net6.0/greet.pdb
