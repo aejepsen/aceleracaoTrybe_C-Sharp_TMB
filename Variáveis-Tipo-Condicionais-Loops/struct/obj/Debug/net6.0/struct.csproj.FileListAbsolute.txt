@@ -1,0 +1,15 @@
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Variáveis-Tipo-Condicionais-Loops/struct/obj/Debug/net6.0/struct.csproj.AssemblyReference.cache
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Variáveis-Tipo-Condicionais-Loops/struct/obj/Debug/net6.0/struct.GeneratedMSBuildEditorConfig.editorconfig
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Variáveis-Tipo-Condicionais-Loops/struct/obj/Debug/net6.0/struct.AssemblyInfoInputs.cache
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Variáveis-Tipo-Condicionais-Loops/struct/obj/Debug/net6.0/struct.AssemblyInfo.cs
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Variáveis-Tipo-Condicionais-Loops/struct/obj/Debug/net6.0/struct.csproj.CoreCompileInputs.cache
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Variáveis-Tipo-Condicionais-Loops/struct/bin/Debug/net6.0/struct
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Variáveis-Tipo-Condicionais-Loops/struct/bin/Debug/net6.0/struct.deps.json
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Variáveis-Tipo-Condicionais-Loops/struct/bin/Debug/net6.0/struct.runtimeconfig.json
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Variáveis-Tipo-Condicionais-Loops/struct/bin/Debug/net6.0/struct.dll
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Variáveis-Tipo-Condicionais-Loops/struct/bin/Debug/net6.0/ref/struct.dll
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Variáveis-Tipo-Condicionais-Loops/struct/bin/Debug/net6.0/struct.pdb
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Variáveis-Tipo-Condicionais-Loops/struct/obj/Debug/net6.0/struct.dll
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Variáveis-Tipo-Condicionais-Loops/struct/obj/Debug/net6.0/ref/struct.dll
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Variáveis-Tipo-Condicionais-Loops/struct/obj/Debug/net6.0/struct.pdb
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Variáveis-Tipo-Condicionais-Loops/struct/obj/Debug/net6.0/struct.genruntimeconfig.cache
