@@ -1,0 +1,15 @@
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Variáveis-Tipo-Condicionais-Loops/tiposVariaveis/obj/Debug/net6.0/tiposVariaveis.csproj.AssemblyReference.cache
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Variáveis-Tipo-Condicionais-Loops/tiposVariaveis/obj/Debug/net6.0/tiposVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Variáveis-Tipo-Condicionais-Loops/tiposVariaveis/obj/Debug/net6.0/tiposVariaveis.AssemblyInfoInputs.cache
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Variáveis-Tipo-Condicionais-Loops/tiposVariaveis/obj/Debug/net6.0/tiposVariaveis.AssemblyInfo.cs
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Variáveis-Tipo-Condicionais-Loops/tiposVariaveis/obj/Debug/net6.0/tiposVariaveis.csproj.CoreCompileInputs.cache
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Variáveis-Tipo-Condicionais-Loops/tiposVariaveis/bin/Debug/net6.0/tiposVariaveis
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Variáveis-Tipo-Condicionais-Loops/tiposVariaveis/bin/Debug/net6.0/tiposVariaveis.deps.json
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Variáveis-Tipo-Condicionais-Loops/tiposVariaveis/bin/Debug/net6.0/tiposVariaveis.runtimeconfig.json
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Variáveis-Tipo-Condicionais-Loops/tiposVariaveis/bin/Debug/net6.0/tiposVariaveis.dll
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Variáveis-Tipo-Condicionais-Loops/tiposVariaveis/bin/Debug/net6.0/ref/tiposVariaveis.dll
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Variáveis-Tipo-Condicionais-Loops/tiposVariaveis/bin/Debug/net6.0/tiposVariaveis.pdb
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Variáveis-Tipo-Condicionais-Loops/tiposVariaveis/obj/Debug/net6.0/tiposVariaveis.dll
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Variáveis-Tipo-Condicionais-Loops/tiposVariaveis/obj/Debug/net6.0/ref/tiposVariaveis.dll
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Variáveis-Tipo-Condicionais-Loops/tiposVariaveis/obj/Debug/net6.0/tiposVariaveis.pdb
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Variáveis-Tipo-Condicionais-Loops/tiposVariaveis/obj/Debug/net6.0/tiposVariaveis.genruntimeconfig.cache

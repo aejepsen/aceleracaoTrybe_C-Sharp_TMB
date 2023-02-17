@@ -1,0 +1,15 @@
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Variáveis-Tipo-Condicionais-Loops/entradaDados/bin/Debug/net6.0/entradaDados
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Variáveis-Tipo-Condicionais-Loops/entradaDados/bin/Debug/net6.0/entradaDados.deps.json
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Variáveis-Tipo-Condicionais-Loops/entradaDados/bin/Debug/net6.0/entradaDados.runtimeconfig.json
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Variáveis-Tipo-Condicionais-Loops/entradaDados/bin/Debug/net6.0/entradaDados.dll
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Variáveis-Tipo-Condicionais-Loops/entradaDados/bin/Debug/net6.0/ref/entradaDados.dll
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Variáveis-Tipo-Condicionais-Loops/entradaDados/bin/Debug/net6.0/entradaDados.pdb
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Variáveis-Tipo-Condicionais-Loops/entradaDados/obj/Debug/net6.0/entradaDados.csproj.AssemblyReference.cache
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Variáveis-Tipo-Condicionais-Loops/entradaDados/obj/Debug/net6.0/entradaDados.GeneratedMSBuildEditorConfig.editorconfig
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Variáveis-Tipo-Condicionais-Loops/entradaDados/obj/Debug/net6.0/entradaDados.AssemblyInfoInputs.cache
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Variáveis-Tipo-Condicionais-Loops/entradaDados/obj/Debug/net6.0/entradaDados.AssemblyInfo.cs
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Variáveis-Tipo-Condicionais-Loops/entradaDados/obj/Debug/net6.0/entradaDados.csproj.CoreCompileInputs.cache
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Variáveis-Tipo-Condicionais-Loops/entradaDados/obj/Debug/net6.0/entradaDados.dll
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Variáveis-Tipo-Condicionais-Loops/entradaDados/obj/Debug/net6.0/ref/entradaDados.dll
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Variáveis-Tipo-Condicionais-Loops/entradaDados/obj/Debug/net6.0/entradaDados.pdb
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Variáveis-Tipo-Condicionais-Loops/entradaDados/obj/Debug/net6.0/entradaDados.genruntimeconfig.cache

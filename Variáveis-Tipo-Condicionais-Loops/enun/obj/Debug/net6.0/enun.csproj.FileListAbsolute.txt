@@ -1,0 +1,15 @@
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Variáveis-Tipo-Condicionais-Loops/enun/bin/Debug/net6.0/enun
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Variáveis-Tipo-Condicionais-Loops/enun/bin/Debug/net6.0/enun.deps.json
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Variáveis-Tipo-Condicionais-Loops/enun/bin/Debug/net6.0/enun.runtimeconfig.json
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Variáveis-Tipo-Condicionais-Loops/enun/bin/Debug/net6.0/enun.dll
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Variáveis-Tipo-Condicionais-Loops/enun/bin/Debug/net6.0/ref/enun.dll
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Variáveis-Tipo-Condicionais-Loops/enun/bin/Debug/net6.0/enun.pdb
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Variáveis-Tipo-Condicionais-Loops/enun/obj/Debug/net6.0/enun.csproj.AssemblyReference.cache
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Variáveis-Tipo-Condicionais-Loops/enun/obj/Debug/net6.0/enun.GeneratedMSBuildEditorConfig.editorconfig
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Variáveis-Tipo-Condicionais-Loops/enun/obj/Debug/net6.0/enun.AssemblyInfoInputs.cache
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Variáveis-Tipo-Condicionais-Loops/enun/obj/Debug/net6.0/enun.AssemblyInfo.cs
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Variáveis-Tipo-Condicionais-Loops/enun/obj/Debug/net6.0/enun.csproj.CoreCompileInputs.cache
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Variáveis-Tipo-Condicionais-Loops/enun/obj/Debug/net6.0/enun.dll
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Variáveis-Tipo-Condicionais-Loops/enun/obj/Debug/net6.0/ref/enun.dll
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Variáveis-Tipo-Condicionais-Loops/enun/obj/Debug/net6.0/enun.pdb
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Variáveis-Tipo-Condicionais-Loops/enun/obj/Debug/net6.0/enun.genruntimeconfig.cache
