@@ -1,5 +1,0 @@
-/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Variáveis-Tipo-Condicionais-Loops/transformacaoTipos/variable/Test/obj/Debug/net6.0/Test.csproj.AssemblyReference.cache
-/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Variáveis-Tipo-Condicionais-Loops/transformacaoTipos/variable/Test/obj/Debug/net6.0/Test.GeneratedMSBuildEditorConfig.editorconfig
-/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Variáveis-Tipo-Condicionais-Loops/transformacaoTipos/variable/Test/obj/Debug/net6.0/Test.AssemblyInfoInputs.cache
-/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Variáveis-Tipo-Condicionais-Loops/transformacaoTipos/variable/Test/obj/Debug/net6.0/Test.AssemblyInfo.cs
-/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Variáveis-Tipo-Condicionais-Loops/transformacaoTipos/variable/Test/obj/Debug/net6.0/Test.csproj.CoreCompileInputs.cache
