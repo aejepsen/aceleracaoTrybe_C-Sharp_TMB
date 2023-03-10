@@ -8,11 +8,18 @@
 
     public static int DivideNumbers(int numberOne, int numberTwo)
     {
-    if (numberTwo == 0)
-    {
-      throw new DivideByZeroException("Não pode dividir um número por zero!");
+    try{
+
+      if (numberTwo == 0)
+      {
+        throw new DivideByZeroException("Não pode dividir um número por zero!");
+      }
+      return numberOne / numberTwo;
     }
-    return numberOne / numberTwo;
+    catch(DivideByZeroException ex){
+
+         throw ex;
+      }
     }
-  }
+  } 
 }
