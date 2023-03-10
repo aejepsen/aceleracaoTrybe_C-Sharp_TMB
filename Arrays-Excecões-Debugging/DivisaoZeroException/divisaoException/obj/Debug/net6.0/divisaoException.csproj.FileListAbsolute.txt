@@ -1,0 +1,15 @@
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Arrays-Excecões-Debugging/DivisaoZeroException/divisaoException/bin/Debug/net6.0/divisaoException
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Arrays-Excecões-Debugging/DivisaoZeroException/divisaoException/bin/Debug/net6.0/divisaoException.deps.json
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Arrays-Excecões-Debugging/DivisaoZeroException/divisaoException/bin/Debug/net6.0/divisaoException.runtimeconfig.json
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Arrays-Excecões-Debugging/DivisaoZeroException/divisaoException/bin/Debug/net6.0/divisaoException.dll
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Arrays-Excecões-Debugging/DivisaoZeroException/divisaoException/bin/Debug/net6.0/ref/divisaoException.dll
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Arrays-Excecões-Debugging/DivisaoZeroException/divisaoException/bin/Debug/net6.0/divisaoException.pdb
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Arrays-Excecões-Debugging/DivisaoZeroException/divisaoException/obj/Debug/net6.0/divisaoException.csproj.AssemblyReference.cache
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Arrays-Excecões-Debugging/DivisaoZeroException/divisaoException/obj/Debug/net6.0/divisaoException.GeneratedMSBuildEditorConfig.editorconfig
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Arrays-Excecões-Debugging/DivisaoZeroException/divisaoException/obj/Debug/net6.0/divisaoException.AssemblyInfoInputs.cache
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Arrays-Excecões-Debugging/DivisaoZeroException/divisaoException/obj/Debug/net6.0/divisaoException.AssemblyInfo.cs
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Arrays-Excecões-Debugging/DivisaoZeroException/divisaoException/obj/Debug/net6.0/divisaoException.csproj.CoreCompileInputs.cache
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Arrays-Excecões-Debugging/DivisaoZeroException/divisaoException/obj/Debug/net6.0/divisaoException.dll
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Arrays-Excecões-Debugging/DivisaoZeroException/divisaoException/obj/Debug/net6.0/ref/divisaoException.dll
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Arrays-Excecões-Debugging/DivisaoZeroException/divisaoException/obj/Debug/net6.0/divisaoException.pdb
+/home/allan/Documentos/cursos/C# TMB Aceleração/aceleracaoTrybe_C-Sharp_TMB/Arrays-Excecões-Debugging/DivisaoZeroException/divisaoException/obj/Debug/net6.0/divisaoException.genruntimeconfig.cache
