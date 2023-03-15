@@ -29,11 +29,15 @@ public class CarTest
     {
         // Arrange
         var kph = 100;
+        var car = new Car();
+        car.TopSpeed = 100;
 
         // Act
         var mph = Car.KphToMph(kph);
+        var mph2 = Car.KphToMph(car.TopSpeed);
 
         // Assert
         mph.Should().BeApproximately(62.12, 0.01);
+        mph2.Should().BeApproximately(62.12, 0.01);
     }
 }
