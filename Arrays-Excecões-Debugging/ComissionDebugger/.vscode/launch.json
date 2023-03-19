@@ -1,0 +1,32 @@
+{
+  // Use o IntelliSense para saber mais sobre os atributos possíveis.
+  // Focalizar para exibir as descrições dos atributos existentes.
+  // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": ".NET Core Launch (console)",
+      "type": "coreclr",
+      "request": "launch",
+      "preLaunchTask": "build",
+      // Se você tiver alterado o caminho para o programa de inicialização, defina o caminho do programa aqui.
+      // "program": "${workspaceFolder}/bin/Debug/<target-framework>/<project-name>.dll",
+      "program": "${workspaceFolder}/bin/Debug/net6.0/comission.dll",
+      "args": [],
+      "cwd": "${workspaceFolder}",
+
+      // Para depurar o código-fonte do ASP.NET Core, configure o "sourceFileMap" conforme descrito em https://aka.ms/VSCode-CS-LaunchJson-WebSourceFileMap
+      // "sourceFileMap": {
+      //   "/Views": "${workspaceFolder}/Views"
+
+      "console": "internalConsole",
+      "stopAtEntry": false,
+    },
+    {
+      "name": ".NET Core Attach",
+      "type": "coreclr",
+      "request": "attach",
+      "processId": "${command:pickProcess}"
+    }
+  ]
+}
