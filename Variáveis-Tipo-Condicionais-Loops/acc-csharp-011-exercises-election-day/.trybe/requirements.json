@@ -1,0 +1,28 @@
+{
+  "requirements": [
+    {
+      "bonus": false,
+      "description": "1 - Implemente a função de Start() para a urna e seus testes.",
+      "enabled": true,
+      "identifier": null,
+      "order": 1,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "2 - Implemente a função UniqueVote() para a urna e seus testes.",
+      "enabled": true,
+      "identifier": null,
+      "order": 2,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "3 - Implemente a função MultipleVotes() para a urna e seus testes.",
+      "enabled": true,
+      "identifier": null,
+      "order": 3,
+      "skill_ids": []
+    }
+  ]
+}
