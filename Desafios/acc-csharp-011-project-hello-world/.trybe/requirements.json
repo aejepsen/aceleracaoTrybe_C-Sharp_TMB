@@ -1,0 +1,12 @@
+{
+  "requirements": [
+    {
+      "bonus": false,
+      "description": "Requisito 1",
+      "enabled": true,
+      "identifier": null,
+      "order": 1,
+      "skill_ids": []
+    }
+  ]
+}
